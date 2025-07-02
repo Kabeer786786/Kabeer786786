@@ -9,9 +9,9 @@
 
 ### 🔥 Coding Firepower
 - 💻 **Problem Solving:** 500+ Problems across platforms
-- 🏆 **CodeChef:** 1★ Rating (Max 1149)
-- 📈 **LeetCode:** 200+ Problems Solved
-- ⚡ **HackerRank:** 2★ Gold Badge in Problem Solving
+- 🏆 **CodeChef:** 1★ Rating (Max 1220)
+- 📈 **LeetCode:** 250+ Problems Solved
+- ⚡ **HackerRank:** 3★ Gold Badge in Problem Solving
 - 🚀 **Fast Learner:** Master new tech stacks rapidly
 
 ---
